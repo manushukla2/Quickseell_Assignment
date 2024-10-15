@@ -2,11 +2,10 @@
 
 ## Overview
 
-<<<<<<< HEAD
-This project is a Kanban board application built using ReactJS. It allows users to interact with ticket data fetched from the [Quicksell API](https://api.quicksell.co/v1/internal/frontend-assignment). Users can group and sort tickets based on different criteria, making it a versatile tool for project management. 
-=======
+
+
 This project is a Kanban board application built using ReactJS. It allows users to interact with ticket data fetched from the [Quicksell API](https://api.quicksell.co/v1/internal/frontend-assignment). Users can group and sort tickets based on different criteria, making it a versatile tool for project management.See live on https://quickseell-assignment.vercel.app/.
->>>>>>> 83ce13c96ba39fdc3594f4116e4fd71f04fca514
+
 
 ## Features
 
@@ -67,3 +66,39 @@ This project is a Kanban board application built using ReactJS. It allows users 
 
 5. **Access the Application:**
    Open your browser and go to `http://localhost:3000`.
+
+
+
+## Live Demo
+
+You can view the live demo of this project 
+https://quickseell-assignment.vercel.app/
+
+
+## Usage
+
+- 1.*Click the "Display" button to fetch and display the tickets from the provided API.*
+- 2.*Select one of the three grouping options: "By Status," "By User," or "By Priority."*
+- 3.*Choose the sorting option: "Priority" or "Title."*
+- 4. *The Kanban board will dynamically adjust to reflect your choices.*
+
+## Contributing
+If you'd like to contribute to this project, please follow these guidelines:
+
+-1.*Fork the repository on GitHub.*
+-2.*Clone the forked repository to your local machine.*
+-3.*Create a new branch for your feature or bug fix:*
+```bash
+
+git checkout -b feature/your-feature-name
+```
+-4.*Make your changes, commit them, and push to your fork.*
+-5.*Open a pull request to the original repository, explaining the changes you made.*   
+
+## Contact
+If you have any questions, suggestions, or feedback, feel free to contact the project maintainer:
+
+Name: Manu Shukla
+Email: manushukla0210@gmail.com
+
+Enjoy using the Kanban board application to manage your tasks efficiently!
